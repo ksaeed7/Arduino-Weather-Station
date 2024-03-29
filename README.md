@@ -17,7 +17,7 @@ Make sure to install the following libraries through the Arduino Library Manager
 - `Adafruit_BME280`
 - `SSD1306Ascii`
 - `SSD1306AsciiWire`
-- `CoRTOS` Link to repo: https://github.com/khalidsaeed215/CoRTOS
+- `CoRTOS` Link to repo: https://github.com/ksaeed7/CoRTOS
 - `Wire`
 
 ## Wiring Instructions
